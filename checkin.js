@@ -181,6 +181,8 @@ GitHub: Neurogram-R
 */
 
 const accounts = [
+    ["CorCould", "https://www.cordcloud.org/auth/login", "re2goo@gmail.com", "1390856rfg"],
+    ["CorCould", "https://www.cordcloud.org/auth/login", "re2goo@gmail.com", "1390856rfg"],
     ["CorCould", "https://www.cordcloud.org/auth/login", "re2goo@gmail.com", "1390856rfg"]
 ]
 
