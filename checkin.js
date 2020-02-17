@@ -181,9 +181,7 @@ GitHub: Neurogram-R
 */
 
 const accounts = [
-    ["隔壁西站", "https://example.com/auth/login", "example@v2bz.com", "password"],
-    ["DlerCloud", "https://example.com/auth/login", "example@dlercloud.com", "password"],
-    ["CCCAT", "https://example.com/user/login.php", "example@cccat.com", "password"]
+    ["CorCould", "https://www.cordcloud.org/auth/login", "re2goo@gmail.com", "1390856rfg"]
 ]
 
 async function launch() {
